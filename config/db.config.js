@@ -1,0 +1,2 @@
+const dbconfig="mongodb://127.0.0.1:27017/ProjectX"
+module.exports={dbconfig:dbconfig}
